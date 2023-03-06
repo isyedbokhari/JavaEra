@@ -14,7 +14,7 @@ public class ForEachLoop {
   for (int i = 0; i < fruits.length; i++) {
       System.out.println(fruits[i]);
   }
-
+  // for each loop
   for (String s : fruits) {
       System.out.println(s);
   }
