@@ -39,5 +39,6 @@ public class CharacterClass {
         
         System.out.println("Here is the sum :"+sum);
 	}
+	
 
 }

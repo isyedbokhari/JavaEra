@@ -28,7 +28,7 @@ public class Task {
 				upperCase = true;
 			} if (letter >= 'a' && letter <= 'z') {
 				lowerCase = true;
-			} if () {}
+			} 
 		}
 		
 		
